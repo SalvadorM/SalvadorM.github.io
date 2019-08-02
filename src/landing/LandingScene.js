@@ -17,8 +17,8 @@ class LandingScene extends Component {
                     <div className="jumbo-info">
                         <a href="https://docs.google.com/document/d/18zfojTsrhx_k7-cFAclSVcuP9cCk1xB4cx0ZjvGamGs/edit?usp=sharing" rel="noopener noreferrer" target="_blank"><h1 id="jumbo-title">Salvador Munoz Castillo</h1></a>
                         <div className="extra-info">
-                            <h3>Hunter College, CUNY</h3>
-                            <p>Bachelors of Arts in Media Studies | Minor: Computer Science </p>
+                            <h3 className="college-info" >Hunter College, CUNY</h3>
+                            <p className="major-info" >Bachelors of Arts in Media Studies | Minor: Computer Science </p>
                         </div>
                     </div>
 

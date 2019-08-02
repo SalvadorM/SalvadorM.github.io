@@ -1,10 +1,12 @@
 import React, { Component } from 'react'
-
-//router
 import { withRouter, Link } from 'react-router-dom'
+
 
 //scss
 import './styles/navbar.scss'
+
+//components 
+// import { LinkText } from './components/linkText'
 
 //images
 import logo from '../images/websiteicon.png'

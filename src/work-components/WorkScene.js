@@ -29,7 +29,7 @@ class WorkScene extends Component {
                     <div className="work-info">
                         <div className="info-container">
                         <a href="https://github.com/buhotech/Slide/tree/master/slide" rel="noopener noreferrer" target="_blank"><h2 className="info-title">Tintu Chat</h2></a>
-                            <p className="info-text"> Chat application that matches users based on similar likes</p>
+                            <p className="info-text"> Chat application that matches users based on similar likes and user can send instant messages</p>
                         </div>
                     </div>
 
@@ -44,7 +44,7 @@ class WorkScene extends Component {
                     <div className="work-info">
                         <div className="info-container">
                         <a href="https://salvadormunoz.herokuapp.com/" rel="noopener noreferrer" target="_blank"><h2 className="info-title">Porfolio Site</h2></a>
-                            <p className="info-text">Previous porfolio</p>
+                            <p className="info-text">Previous porfolio site</p>
                         </div>
                     </div>
 
@@ -59,7 +59,7 @@ class WorkScene extends Component {
                     <div className="work-info">
                         <div className="info-container">
                         <a href="https://classhub-hunter.herokuapp.com/" rel="noopener noreferrer" target="_blank"><h2 className="info-title">ClassHub Mobile App</h2></a>
-                            <p className="info-text">An application that lets you find classmates, post notes and comment!</p>
+                            <p className="info-text">An application that lets you find and add classmates, post notes and comment!</p>
                         </div>
                     </div>
 
@@ -103,7 +103,7 @@ class WorkScene extends Component {
                 <div className="work-info">
                     <div className="info-container">
                     <a href="https://iart.shashafeng.com/2018/11/20/location-sim/" rel="noopener noreferrer" target="_blank"><h2 className="info-title">Location Sim</h2></a>
-                    <p className="info-text">Interactive installation using Max 8 and dp.kinect 2!</p>
+                    <p className="info-text">Interactive installation using Max 8, Microsoft Kinect, and dp.kinect 2 Library!</p>
                     </div>
                 </div>
                 </div>
