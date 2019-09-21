@@ -1,13 +1,23 @@
 {
   "files": {
-    "main.js": "SalvadorM.github.io/static/js/main.fd4db030.chunk.js",
-    "main.js.map": "SalvadorM.github.io/static/js/main.fd4db030.chunk.js.map",
+    "main.css": "SalvadorM.github.io/static/css/main.35356785.chunk.css",
+    "main.js": "SalvadorM.github.io/static/js/main.9a22b339.chunk.js",
+    "main.js.map": "SalvadorM.github.io/static/js/main.9a22b339.chunk.js.map",
     "runtime~main.js": "SalvadorM.github.io/static/js/runtime~main.055b4fd3.js",
     "runtime~main.js.map": "SalvadorM.github.io/static/js/runtime~main.055b4fd3.js.map",
-    "static/js/2.3310f33a.chunk.js": "SalvadorM.github.io/static/js/2.3310f33a.chunk.js",
-    "static/js/2.3310f33a.chunk.js.map": "SalvadorM.github.io/static/js/2.3310f33a.chunk.js.map",
+    "static/js/2.215e34c8.chunk.js": "SalvadorM.github.io/static/js/2.215e34c8.chunk.js",
+    "static/js/2.215e34c8.chunk.js.map": "SalvadorM.github.io/static/js/2.215e34c8.chunk.js.map",
     "index.html": "SalvadorM.github.io/index.html",
-    "precache-manifest.4ca3eb077a7ed4bbf25e9b63cde04f75.js": "SalvadorM.github.io/precache-manifest.4ca3eb077a7ed4bbf25e9b63cde04f75.js",
-    "service-worker.js": "SalvadorM.github.io/service-worker.js"
+    "precache-manifest.8b38da23f2085ec359069e91cc75a70c.js": "SalvadorM.github.io/precache-manifest.8b38da23f2085ec359069e91cc75a70c.js",
+    "service-worker.js": "SalvadorM.github.io/service-worker.js",
+    "static/css/main.35356785.chunk.css.map": "SalvadorM.github.io/static/css/main.35356785.chunk.css.map",
+    "static/media/classhub.png": "SalvadorM.github.io/static/media/classhub.6bf6bc3a.png",
+    "static/media/climate.png": "SalvadorM.github.io/static/media/climate.2eb387ea.png",
+    "static/media/kinect.jpeg": "SalvadorM.github.io/static/media/kinect.4a301ff9.jpeg",
+    "static/media/porfolio.png": "SalvadorM.github.io/static/media/porfolio.4c6c2fc7.png",
+    "static/media/soccer.png": "SalvadorM.github.io/static/media/soccer.c2366c72.png",
+    "static/media/test.jpeg": "SalvadorM.github.io/static/media/test.95481c3e.jpeg",
+    "static/media/tintu.png": "SalvadorM.github.io/static/media/tintu.0f96495d.png",
+    "static/media/websiteicon.png": "SalvadorM.github.io/static/media/websiteicon.8179130b.png"
   }
 }
