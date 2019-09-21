@@ -1,0 +1,71 @@
+.layout2-container {
+    padding-top: 150px;
+}
+
+
+//bio container
+.bio {
+    margin-top: 3rem;
+}
+
+
+//images
+.img-container {
+    width: 70%;
+    margin: auto;
+}
+
+.img-src {
+    width: 100%;
+    transition-timing-function: ease-in;
+}
+
+// Messages
+.message-container {
+    overflow: hidden;
+    text-align: center;
+}
+.message-content{
+    margin: auto;
+    font-size: 3rem;
+    display: inline-block;
+}
+
+.showText {
+    animation: showMessage 2s 1;
+}
+.hideText {
+    opacity: 0;
+}
+@keyframes showMessage {
+    from {
+
+        transform: translateY(-100%)
+    }
+
+    to {
+        transform: translateY(0)
+    }
+}
+
+//mobile
+@media only screen and (max-width: 600px) {
+    .img-container {
+        width: 90%;
+    }
+
+    .message-content{
+        margin: auto;
+        font-size: 2rem;
+        animation: showMessage 2s 1;
+        display: inline-block;
+    }
+
+    .message-container {
+        padding: 10px;
+    }
+
+    .bio {
+         margin-top: 30px;
+     }
+  }
